@@ -23,7 +23,7 @@ public class comprafrete13 {
         }
         else{
             fretefinal = vlfrete;
-            System.out.println(" Sua compra foi abaixo de R$500 portanto pagar o frete integral.");
+            System.out.println(" Sua compra foi abaixo de R$500 portanto irá pagar o frete integral.");
         }
         vlfinal = cptotal + fretefinal;
         System.out.println(" O valor final a pagar é R$ " +vlfinal);
